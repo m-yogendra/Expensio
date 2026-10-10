@@ -1,0 +1,45 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+mvnw
+mvnw.cmd
+
+# Spring Boot
+application-local.properties
+application-dev.properties
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+pnpm-lock.yaml
+
+# Secrets
+.env
+.env.local
+*.key
+*.pem
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+out/
