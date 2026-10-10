@@ -1,11 +1,9 @@
+# Expense Tracker Dashboard UI
 
-  # Expense Tracker Dashboard UI
+Modern expense tracking dashboard with intuitive interface and data visualization.
 
-  This is a code bundle for Expense Tracker Dashboard UI. The original project is available at https://www.figma.com/design/3dEGhOdCbw9mBegP4nN1H7/Expense-Tracker-Dashboard-UI.
+## Running the code
 
-  ## Running the code
+Run `npm i` to install the dependencies.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Run `npm run dev` to start the development server.
